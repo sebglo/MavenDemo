@@ -10,7 +10,7 @@ public class App
 	 * Constante du message Hello World!
 	 */
 	// FIXME Doesn't respect code rules
-    private final static String message = "Hello World! on ajoute une modification";
+    private final static String message = "Hello World!";
 
 
     /**
