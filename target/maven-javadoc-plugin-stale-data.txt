@@ -1,0 +1,47 @@
+@options
+@packages
+-classpath
+'/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/classes:/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/test-classes:/home/sebastien/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/sebastien/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT Test API'
+com.mycompany.app
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/classes = 1641543509000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/test-classes = 0
+/home/sebastien/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar = 1638779926000
+/home/sebastien/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1638779926000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/src/test/java = 1638715462000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/package-list = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/constant-values.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/deprecated-list.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/script.js = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/stylesheet.css = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/index.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/index-all.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/overview-tree.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/allclasses-noframe.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/help-doc.html = 1641543510000
+/home/sebastien/Bureau/EPSI/211208JavaJenkins2/MavenDemo/target/site/testapidocs/allclasses-frame.html = 1641543510000
